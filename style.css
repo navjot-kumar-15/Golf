@@ -644,6 +644,12 @@ video {
     margin-left: 15rem;
     height: 20vw;
   }
+  .overlay h4 {
+    font-size: 5vw;
+  }
+  .overlay p {
+    font-size: 3vw;
+  }
   .footer_content div p {
     font-size: 2vw;
     font-weight: 600;
